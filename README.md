@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Nitin saini 👋  
+# 🚀 Hi, I'm Nitin saini 
 ### Software Developer | AI Systems Builder | Startup Founder  
 
 I build **real systems**, not demo projects.  
